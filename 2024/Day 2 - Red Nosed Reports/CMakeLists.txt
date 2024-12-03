@@ -3,4 +3,4 @@ project(Day_2___what)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Day_2___what main.cpp)
+add_executable(Day_2___what red_nosed_reports.cpp)

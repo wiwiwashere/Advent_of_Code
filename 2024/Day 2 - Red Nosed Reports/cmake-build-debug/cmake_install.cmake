@@ -1,4 +1,4 @@
-# Install script for directory: D:/CODING/codes/Advent_of_Code/2024/Day 2 - what
+# Install script for directory: D:/CODING/codes/Advent_of_Code/2024/Day 2 - Red Nosed Reports
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/CODING/codes/Advent_of_Code/2024/Day 2 - what/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CODING/codes/Advent_of_Code/2024/Day 2 - Red Nosed Reports/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

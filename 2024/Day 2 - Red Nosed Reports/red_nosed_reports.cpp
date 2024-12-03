@@ -74,9 +74,9 @@ int safe(const char* filepath)
             num_safe++;
             for (int i = 0; i < report.size(); ++i)
             {
-                cout << report[i] << " ";
+                //cout << report[i] << " ";
             }
-            cout << endl;
+            //cout << endl;
         }
     }
 

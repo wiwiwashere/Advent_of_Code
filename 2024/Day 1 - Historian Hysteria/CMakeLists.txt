@@ -3,4 +3,4 @@ project(Day_1___Historian_Hysteria)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Day_1___Historian_Hysteria main.cpp)
+add_executable(Day_1___Historian_Hysteria historian_hysteria.cpp)
